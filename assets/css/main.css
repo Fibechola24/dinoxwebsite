@@ -3827,7 +3827,7 @@ body.landing {
   -webkit-transition: color 0.2s ease-in-out;
   -ms-transition: color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out;
-  color: #fff;
+  color: #09500d;
   display: inline-block;
   margin-right: 1.25em;
   text-decoration: none;
@@ -4049,10 +4049,15 @@ body.landing {
   text-align: center;
 }
 
+
 #banner input,
 #banner select,
 #banner textarea {
   color: #fff;
+}
+
+#dinox-menu{
+	color: #45ad97;
 }
 
 #banner a {
