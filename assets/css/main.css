@@ -3994,7 +3994,10 @@ body.landing {
   vertical-align: middle;
   width: 7em;
 }
-
+.system-desc{
+	color: red;
+	list-style: none;
+}
 #nav .close:before {
   content: "";
   -moz-osx-font-smoothing: grayscale;
