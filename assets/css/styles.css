@@ -32,6 +32,22 @@ nav ul li a {
 
 .section {
     padding: 20px;
+    position: relative;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+section:nth-child(odd) img {
+    float: left;
+    margin-right: 20px;
+}
+
+section:nth-child(even) img {
+    float: right;
+    margin-left: 20px;
 }
 
 footer {
