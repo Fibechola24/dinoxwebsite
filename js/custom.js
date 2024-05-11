@@ -20,10 +20,10 @@
 
     // BACKSTRETCH SLIDESHOW
     $('#section_1').backstretch([
-      "images/slide/microsoft-edge-FAaz8lkinzs-unsplash.jpg", 
-      "images/slide/surface-1x5jnhtlp3Y-unsplash.jpg",
-      "images/slide/surface-71_s6RDJpGc-unsplash.jpg"
-    ],  {duration: 2000, fade: 750});
+      "images/slide/solar-installations.png", 
+      "images/slide/mechanical.png",
+      "images/slide/header_pic.png"
+    ],  {duration: 5000, fade: 750});
     
   })(window.jQuery);
 
