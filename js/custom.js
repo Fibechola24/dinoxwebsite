@@ -20,10 +20,16 @@
 
     // BACKSTRETCH SLIDESHOW
     $('#section_1').backstretch([
-      "images/slide/solar-installations.png", 
-      "images/slide/mechanical.png",
-      "images/slide/header_pic.png"
-    ],  {duration: 5000, fade: 750});
+      "images/slide/LOGISTICS INSURANCE CLEARING AND FORWARDING.jpg", 
+      "images/slide/MINI-GRID PROJECTS.jpg",
+      "images/slide/POWER PROJECT ELV_LV_MV_HV.jpg",
+      "images/slide/RENEWABLE ENERGY PROJECTS.jpg",
+      "images/slide/caterpillar.jpg"
+
+      
+
+
+    ],  {duration: 2000, fade: 750});
     
   })(window.jQuery);
 
